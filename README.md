@@ -83,6 +83,22 @@ This suggests income is an important predictor of spending behavior.
 
 ---
 
+## Business Impact
+
+The analysis demonstrates that customer value is strongly associated with income, education level, and purchasing behavior.
+
+These insights can help businesses:
+
+- Identify high-value customer segments
+- Improve marketing campaign targeting
+- Increase customer retention
+- Optimize marketing budget allocation
+- Support data-driven business decisions
+
+By focusing on customers with characteristics similar to top spenders, organizations can improve marketing efficiency and maximize return on investment.
+
+---
+
 ## Technologies Used
 
 - Python
@@ -132,7 +148,7 @@ Future versions of the project may include:
 
 ## Author
 
-**Maria Zaitseva**
+**Maryia Zaitsava**
 
 Boston University  
 Master of Science in Data Science
